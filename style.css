@@ -1,1 +1,17 @@
 /*HackerDojo CSS Group Assignment*/
+
+#map{
+	display: inline-block;
+	margin-left: 600px;
+	height: 300px;
+	border:1px solid black;
+}
+
+	#map-contents {
+		border: 4px dashed grey;
+		display: inline-block;
+		width: 350px;
+		margin-left: 7px;
+		padding-left: 10px;
+	}
+
