@@ -1,5 +1,9 @@
 /*HackerDojo CSS Group Assignment*/
 
+html	{
+	font-family: 'myriad pro', myriad, 'trebuchet ms', sans-serif
+}
+
 #map{
 	display: inline-block;
 	margin-left: 600px;
