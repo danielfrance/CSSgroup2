@@ -1,7 +1,31 @@
 /*HackerDojo CSS Group Assignment*/
 
+
 html	{
 	font-family: 'myriad pro', myriad, 'trebuchet ms', sans-serif
+}
+
+
+#header{
+	padding-bottom: -20px;
+	width:1200px;
+	border:2px solid black;
+	/*background-color: gray;*/
+	border-bottom: 20px solid rgb(144,16,47);
+}
+#hackLogoimg{
+	display: inline-block;
+}
+#navbar{
+	display: inline-block;
+	margin-left:100px;
+	font-size: 1.3em;
+
+}
+#navbar ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 0 15px;
 }
 
 #map{
@@ -18,4 +42,5 @@ html	{
 		margin-left: 7px;
 		padding-left: 10px;
 	}
+
 
